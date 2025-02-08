@@ -6,21 +6,11 @@ Welcome to my GitHub profile! Passionate about transforming raw data into action
 
 ### **👩‍🎓 About Me**  
 🎓 **Education:**  
-- Bachelor’s Degree in Islamic Banking, **Universitas Islam Negeri Syarif Hidayatullah Jakarta**  
+- Bachelor’s Degree in Economics, **Universitas Islam Negeri Syarif Hidayatullah Jakarta**  
 - Data Science Bootcamp Graduate, **Hacktiv8**  
 
 🤝 **Open to Collaboration:**  
 I’m eager to work on projects involving **data analysis**, **machine learning**, and **dashboard development**, particularly those tackling real-world challenges with innovative solutions.
-
----
-
-### **💻 Technical Skills**  
-- **Languages & Tools:** Python (Pandas, NumPy, TensorFlow, Keras), SQL, Tableau, Power BI, Kibana  
-- **Data Engineering:** PostgreSQL, Elasticsearch, Apache Airflow  
-- **Expertise:**  
-  - Data Wrangling, Feature Engineering, EDA
-  - Machine Learning (Regression, Classification, Clustering, Time Series, Deep Learning)  
-  - Dashboard Development & Data Storytelling
 
 ---
 
@@ -33,7 +23,7 @@ I’m eager to work on projects involving **data analysis**, **machine learning*
 <a href="https://linkedin.com/in/www.linkedin.com/in/zaharatul-jannah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zaharatul-jannah" height="30" width="40" /></a>
 <a href="https://instagram.com/zaharatul_jannnah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaharatul_jannnah" height="30" width="40" /></a>
 </p>
-
+---
 <h3 align="left">Languages and Tools:</h3>
 <img align="left" alt="Power BI" width="30px" src="https://powerbi.microsoft.com/pictures/application-logos/svg/powerbi.svg" style="padding-right:0px;" />
 <img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />
@@ -45,5 +35,9 @@ I’m eager to work on projects involving **data analysis**, **machine learning*
 
 <br />
 <br />
+
+---
+
+💬 *Let’s connect! Feel free to explore my projects or reach out for collaboration opportunities!* 🚀
 
 ---
