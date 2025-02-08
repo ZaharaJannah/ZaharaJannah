@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zaharatul Jannah</h1>
-<h3 align="center">Welcome to my GitHub profile! Passionate about transforming raw data into actionable insights, crafting compelling visualizations, and solving complex problems with data-driven strategies. Dedicated to turning numbers into narratives that drive informed decisions and create meaningful impact across industries.</h3>
+<h3 align="left">Welcome to my GitHub profile! Passionate about transforming raw data into actionable insights, crafting compelling visualizations, and solving complex problems with data-driven strategies. Dedicated to turning numbers into narratives that drive informed decisions and create meaningful impact across industries.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
