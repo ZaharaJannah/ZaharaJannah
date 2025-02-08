@@ -1,8 +1,35 @@
-<h1 align="center">Hi 👋, I'm Zaharatul Jannah</h1>
-<h3 align="left">Welcome to my GitHub profile! Passionate about transforming raw data into actionable insights, crafting compelling visualizations, and solving complex problems with data-driven strategies. Dedicated to turning numbers into narratives that drive informed decisions and create meaningful impact across industries.</h3>
+## Hi, I’m **Zaharatul Jannah!** 👋  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+Welcome to my GitHub profile! Passionate about transforming raw data into actionable insights, crafting compelling visualizations, and solving complex problems with data-driven strategies. Dedicated to turning numbers into narratives that drive informed decisions and create meaningful impact across industries. 
+
+---
+
+### **👩‍🎓 About Me**  
+🎓 **Education:**  
+- Bachelor’s Degree in Islamic Banking, **Universitas Islam Negeri Syarif Hidayatullah Jakarta**  
+- Data Science Bootcamp Graduate, **Hacktiv8**  
+
+🤝 **Open to Collaboration:**  
+I’m eager to work on projects involving **data analysis**, **machine learning**, and **dashboard development**, particularly those tackling real-world challenges with innovative solutions.
+
+---
+
+### **💻 Technical Skills**  
+- **Languages & Tools:** Python (Pandas, NumPy, TensorFlow, Keras), SQL, Tableau, Power BI, Kibana  
+- **Data Engineering:** PostgreSQL, Elasticsearch, Apache Airflow  
+- **Expertise:**  
+  - Data Wrangling, Feature Engineering, EDA
+  - Machine Learning (Regression, Classification, Clustering, Time Series, Deep Learning)  
+  - Dashboard Development & Data Storytelling
+
+---
+
+### **🚀 Key Projects**  
+
+
+---
+
+### **🌐 Let’s Connect!**  
 <a href="https://linkedin.com/in/www.linkedin.com/in/zaharatul-jannah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/zaharatul-jannah" height="30" width="40" /></a>
 <a href="https://instagram.com/zaharatul_jannnah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zaharatul_jannnah" height="30" width="40" /></a>
 </p>
