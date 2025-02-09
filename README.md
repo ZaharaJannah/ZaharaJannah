@@ -29,8 +29,6 @@ I’m eager to work on projects involving **data analysis**, **machine learning*
   <img align="left" alt="Tableau" width="50px" src="https://logos-world.net/wp-content/uploads/2021/10/Tableau-Symbol.png" style="padding-right:10px;" />
 </p>
 
-<br/><br/>
-
 <p align="left">
   <!-- AWS -->
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -65,7 +63,7 @@ I’m eager to work on projects involving **data analysis**, **machine learning*
   <!-- PostgreSQL -->
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubu
-
+ </a>
 
 ---
 ---
