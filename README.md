@@ -64,3 +64,6 @@ I’m eager to work on projects involving **data analysis**, **machine learning*
   <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubu
  </a>
+
+ ---
+ 
