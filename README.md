@@ -66,7 +66,6 @@ I’m eager to work on projects involving **data analysis**, **machine learning*
  </a>
 
 ---
----
 
 ### **🌐 Let’s Connect!**  
 <p>
